@@ -1,6 +1,5 @@
-# FIT2102 Assignment 1
-
-All of your changes, code, and game files should be in the src folder.
+# Frogger
+This is a game based on the classic Frogger game made by Konami in 1981. While some of the gameplay features might not be present, most of them are included within this game. Please read the Instructions pdf to have a clearer picture on how the game is supposed to be played. 
 
 ## Development
 
